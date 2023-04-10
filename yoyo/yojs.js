@@ -1,0 +1,1 @@
+()=>{conlse.log("YOYO")}

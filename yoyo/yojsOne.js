@@ -1,0 +1,1 @@
+function yo(){console.log("YOYO")} yo()
